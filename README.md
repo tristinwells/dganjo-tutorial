@@ -1,2 +1,2 @@
-# dganjo-tutorial
-# dganjo-tutorial
+# django-tutorial
+# django-tutorial
