@@ -1,5 +1,4 @@
-# dganjo-tutorial
+# django-tutorial
 
-# dganjo-tutorial
+# django-tutorial
 
-Hello world
